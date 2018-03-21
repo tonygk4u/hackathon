@@ -1,0 +1,6 @@
+>banking DQ identification and remediation
+
+
+Criteria:
+>practicality,uniqueness, ML based approach
+>
