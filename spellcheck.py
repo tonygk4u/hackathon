@@ -9,6 +9,8 @@ import re
 from collections import Counter
 import pandas as pd
 
+df1 = pd.read_csv('CRS_Test_Data29112017 223508.csv',encoding = "ISO-8859-1")
+
 def words(text): return re.findall(r'\w+', text.upper())
 
 #WORDS = Counter(words(open('districts.txt').read()))

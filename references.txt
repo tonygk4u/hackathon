@@ -1,0 +1,11 @@
+DISTRICT:
+>https://datascience.stackexchange.com/questions/16128/algorithms-and-techniques-for-spell-checking
+>http://norvig.com/spell-correct.html
+
+STREET:
+>https://stackoverflow.com/questions/10018679/python-find-closest-string-from-a-list-to-another-string
+
+General:
+>https://rawgit.com/ztane/python-Levenshtein/master/docs/Levenshtein.html#Levenshtein-hamming
+>https://stackoverflow.com/questions/26405895/how-can-i-match-fuzzy-match-strings-from-two-datasets
+>https://journal.r-project.org/archive/2010/RJ-2010-017/RJ-2010-017.pdf
