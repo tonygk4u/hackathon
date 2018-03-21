@@ -13,7 +13,7 @@ path = 'E:/My Lab/hackathon/'#input("Please enter path:")
 os.chdir(path)
 
 
-df1 = pd.read_csv('CRS_Test_Data29112017 223508.csv',encoding = "ISO-8859-1")
+df1 = pd.read_csv('corrected_district.csv',encoding = "ISO-8859-1")
 
 #word = 'KPr CrescenX'
 
@@ -36,5 +36,5 @@ for index, row in df1.iterrows():
         df1.set_value(index,'Corrected_Street',Corrected_street)
         print(index,Corrected_street)
  
-df1.to_csv('corrected_streetname.csv')         
+df1.to_csv('corrected_district+street.csv')         
     
